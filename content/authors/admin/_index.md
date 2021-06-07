@@ -72,8 +72,8 @@ email: "dm878@cam.ac.uk"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dong Ma currently a postdoctoral researcher at the Department of Computer Science and Technology at the University of Cambridge, advised by Prof. Cecilia Mascolo. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests rotate around cyber-physical systems, including ubiquitous computing, pervasive sensing, vibration communication, energy harvesting, and mobile and wearable healthcare, covering the ene-to-end system design, implementation, and evaluation. Recently, he is particularly centred on robust human behaviour analysis and health monitoring with wearable technology and tiny machining learning on embedded devices.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
