@@ -71,8 +71,8 @@ email: "dm878@cam.ac.uk"
 highlight_name: false
 ---
 
-Dong Ma currently a postdoctoral researcher at the Department of Computer Science and Technology at the University of Cambridge, advised by Prof. [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). 
+I am currently a postdoctoral researcher at the Department of Computer Science and Technology at the [University of Cambridge](https://www.cam.ac.uk/), advised by Prof. [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). Prior to that, I received my PhD at the School of Computer Science and Engineering, [University of New South Wales](https://www.unsw.edu.au/), Australia in 2019, supervised by Prof. [Mahbub Hassan](http://www.cse.unsw.edu.au/~mahbub/) and Prof. [Wen Hu](https://sites.google.com/site/wenhuunsw/home). I also worked as a research assistant at the [Networks Research Group](https://research.csiro.au/isp/) at [DATA61-CSIRO](https://www.data61.csiro.au/), from 2016 to 2019. I obtained my bachelor and master in Communication Engineering from [Central South University](http://en.csu.edu.cn/), China, in 2014 and 2016, respectively.
 
-His research interests rotate around cyber-physical systems, including ubiquitous computing, pervasive sensing, vibration communication, energy harvesting, and mobile and wearable healthcare, covering the ene-to-end system design, implementation, and evaluation. Recently, he is particularly centred on robust human behaviour analysis and health monitoring with wearable technology and tiny machining learning on embedded devices.
+My research interests rotate around cyber-physical systems, including ubiquitous computing, pervasive sensing, vibration communication, energy harvesting, and mobile and wearable healthcare, covering the ene-to-end system design, implementation, and evaluation. Recently, he is particularly centred on robust human behaviour analysis and health monitoring with wearable technology and tiny machining learning on embedded devices.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
