@@ -22,10 +22,15 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
- - item:
-   title: MobiCom '20 Best Paper Honorable Mention
-   organization: dd
-   date_start: nov 2020
+item:
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-25"
+  description: ""
+  organization: Coursera
+  organization_url: 
+  title: Neural Networks and Deep Learning
+  url: ""
 
 
 design:
