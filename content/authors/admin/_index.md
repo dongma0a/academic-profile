@@ -68,7 +68,7 @@ social:
 email: "dm878@cam.ac.uk"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am currently a postdoctoral researcher at the Department of Computer Science and Technology at the [University of Cambridge](https://www.cam.ac.uk/), advised by Prof. [Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). Prior to that, I received my PhD at the School of Computer Science and Engineering, [University of New South Wales](https://www.unsw.edu.au/), Australia in 2019, supervised by Prof. [Mahbub Hassan](http://www.cse.unsw.edu.au/~mahbub/) and Prof. [Wen Hu](https://sites.google.com/site/wenhuunsw/home). I also worked as a research assistant at the [Networks Research Group](https://research.csiro.au/isp/) at [DATA61-CSIRO](https://www.data61.csiro.au/), from 2016 to 2019. I obtained my bachelor and master in Communication Engineering from [Central South University](http://en.csu.edu.cn/), China, in 2014 and 2016, respectively.
