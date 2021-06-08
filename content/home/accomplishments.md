@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2019"
+  date_start: "2019-11"
   description: ""
   organization: 
   organization_url: 
