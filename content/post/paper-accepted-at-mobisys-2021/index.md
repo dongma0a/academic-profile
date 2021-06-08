@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Our paper entitled "OESense: Employing Occlusion Effect for In-ear Human Sensings" has been accepted by ACM MobiSys 2021.
+Our paper entitled "OESense: Employing Occlusion Effect for In-ear Human Sensings" was accepted by ACM MobiSys 2021.
