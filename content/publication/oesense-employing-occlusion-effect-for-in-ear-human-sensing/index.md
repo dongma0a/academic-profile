@@ -11,7 +11,7 @@ publication: In the 19th ACM International Conference on Mobile Systems,
   Applications, and Services
 publication_short: MobiSys 2021
 draft: true
-featured: false
+featured: true
 tags:
   - MobiSys 2021
 image:
