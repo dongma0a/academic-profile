@@ -25,13 +25,28 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: 
+  date_start: "2020-01-23"
   description: ""
   organization: 
   organization_url: 
   title: Neural Networks and Deep Learning
   url: ""
-
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-01-23"
+  description: ""
+  organization: 
+  organization_url: 
+  title: Neural Networks and Deep Learning1
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-01-23"
+  description: ""
+  organization: 
+  organization_url: 
+  title: Neural Networks and Deep Learning2
+  url: ""
 
 design:
   columns: '1' 
