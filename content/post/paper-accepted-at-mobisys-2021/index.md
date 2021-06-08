@@ -1,5 +1,5 @@
 ---
-title: "[2021/05] Paper accepted at MobiSys 2021"
+title: "[05/2021] Paper accepted at MobiSys 2021"
 date: 2021-06-01T11:54:21.812Z
 draft: false
 featured: false
@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Paper accepted at MobiSys 2021
+Our paper entitled "OESense: Employing Occlusion Effect for In-ear Human Sensings" has been accepted by ACM MobiSys 2021.
