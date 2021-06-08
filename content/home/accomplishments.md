@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2020-01-23"
+  date_start: "2019"
   description: ""
   organization: 
   organization_url: 
-  title: Neural Networks and Deep Learning
+  title: EPFL Engineering Ph.D. Summit, Switzerland
   url: ""
 - certificate_url: 
   date_end: ""
