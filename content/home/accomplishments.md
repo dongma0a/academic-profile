@@ -22,7 +22,10 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-MobiCom '20 Best Paper Honorable Mention
+ - item:
+   title: MobiCom '20 Best Paper Honorable Mention
+   organization: dd
+   date_start: nov 2020
 
 
 design:
