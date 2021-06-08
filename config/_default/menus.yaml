@@ -11,13 +11,13 @@ main:
     url: '#posts'
     weight: 20
   - name: Awards
-    url: '#projects'
+    url: '#awards'
     weight: 30
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 40
   - name: Service
-    url: '#featured'
+    url: '#service'
     weight: 50
  #  - name: Talk
  #    url: '#contact'
