@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards'
@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2021-01-25"
   description: ""
-  organization: Coursera
+  organization: 
   organization_url: 
   title: Neural Networks and Deep Learning
   url: ""
