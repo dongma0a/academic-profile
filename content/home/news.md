@@ -19,7 +19,7 @@ content:
   count: 3
   # Filter on criteria
   filters:
-    author: "nndi fnifnig  sindfdg"
+    author: ""
     category: ""
     tag: ""
     exclude_featured: false
