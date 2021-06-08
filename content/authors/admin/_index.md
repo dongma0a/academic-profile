@@ -17,25 +17,25 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Ubiquitous Computing
-- Mobile Healthcare
-- Tiny Machine Learning
-- Vibration Communication
-- Energy Harvesting
+# interests:
+# - Ubiquitous Computing
+# - Mobile Healthcare
+# - Tiny Machine Learning
+# - Vibration Communication
+# - Energy Harvesting
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Computer Science
-    institution: The University of New South Wales, Australia
-    year: 2019
-  - course: MEng in Communication Engineering
-    institution: Central South University, China
-    year: 2016
-  - course: BSc in Communication Engineering
-    institution: Central South University, China
-    year: 2014
+# education:
+#   courses:
+#   - course: PhD in Computer Science
+#     institution: The University of New South Wales, Australia
+#     year: 2019
+#   - course: MEng in Communication Engineering
+#     institution: Central South University, China
+#     year: 2016
+#   - course: BSc in Communication Engineering
+#     institution: Central South University, China
+#     year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
