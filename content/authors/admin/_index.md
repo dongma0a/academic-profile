@@ -71,7 +71,7 @@ email: "dm878@cam.ac.uk"
 highlight_name: false
 ---
 
-Dong Ma currently a postdoctoral researcher at the Department of Computer Science and Technology at the University of Cambridge, advised by Prof. Cecilia Mascolo. 
+Dong Ma currently a postdoctoral researcher at the Department of Computer Science and Technology at the University of Cambridge, advised by Prof. [Cecilia Mascolo] (https://www.cl.cam.ac.uk/~cm542/). 
 
 His research interests rotate around cyber-physical systems, including ubiquitous computing, pervasive sensing, vibration communication, energy harvesting, and mobile and wearable healthcare, covering the ene-to-end system design, implementation, and evaluation. Recently, he is particularly centred on robust human behaviour analysis and health monitoring with wearable technology and tiny machining learning on embedded devices.
 
