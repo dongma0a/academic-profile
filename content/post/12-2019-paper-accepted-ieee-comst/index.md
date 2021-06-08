@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Our paper entitled "Sensing, Computing, and Communication for Energy Harvesting IoTs: A Survey" has been accepted by IEEE Communication Surveys and Tutorials.
+Our paper entitled "Sensing, Computing, and Communication for Energy Harvesting IoTs: A Survey" was accepted by IEEE Communication Surveys and Tutorials.
