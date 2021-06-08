@@ -10,7 +10,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of University
+- name: University of Cambridge
   url: https://www.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+<!-- - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/GeorgeCushen -->
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com.au/citations?user=roQg6_4AAAAJ&hl=en
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
+<!-- - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/resume.pdf -->
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "dm878@cam.ac.uk"
@@ -75,4 +75,4 @@ Dong Ma currently a postdoctoral researcher at the Department of Computer Scienc
 
 His research interests rotate around cyber-physical systems, including ubiquitous computing, pervasive sensing, vibration communication, energy harvesting, and mobile and wearable healthcare, covering the ene-to-end system design, implementation, and evaluation. Recently, he is particularly centred on robust human behaviour analysis and health monitoring with wearable technology and tiny machining learning on embedded devices.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
