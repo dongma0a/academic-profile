@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-<!-- - icon: twitter
+- icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen -->
+  link: https://twitter.com/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com.au/citations?user=roQg6_4AAAAJ&hl=en
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-<!-- - icon: cv
+- icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf -->
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "dm878@cam.ac.uk"
